@@ -2,7 +2,7 @@
 
     // ================================
     // Movimentação das peças de xadrez
-    // Torre, Bispo, Rainha e Cavalo
+    // Torre, Bispo e Rainha
     // ================================
 
 int main() {
@@ -69,6 +69,8 @@ int main() {
             }
             
         }
+        i++;    
+        
     }
     
     printf("\nSimulação concluída com sucesso!\n");
